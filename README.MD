@@ -181,11 +181,12 @@ and start thinking:
 ---
 
 ## 🚀 Why This Repository?
-
+<!-- 
 System design is not something I want to learn only for interviews.
 
 I’m building this repository to understand **how the pieces of real software fit together** and to improve the way I approach engineering problems.
 
 **Learn → Design → Implement → Break → Improve.**
 
-That's the process.
+That's the process. -->
+Not gonna lie, this whole thing started as a forced assignment task, but now I’m genuinely invested. It went from 'I have to do this' to 'wait, this is actually kind of cool' real quick. Let's see how deep down the rabbit hole I go!
